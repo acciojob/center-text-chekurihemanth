@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.container .content{
+.container>.content{
 	text-align: center;
 	color: white;
 	
