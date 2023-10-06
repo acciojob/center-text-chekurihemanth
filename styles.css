@@ -1,4 +1,6 @@
 /*  your css code here. If applicable */
-body{
-	background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%  / auto padding-box border-box;
+.container .content{
+	text-align: center;
+	color: white;
+	
 }
